@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "branderux": {
+      "type": "http",
+      "url": "https://mcp.branderux.com/mcp"
+    }
+  }
+}
