@@ -8,7 +8,7 @@
     {
       "name": "branderux",
       "source": "./plugins/branderux",
-      "description": "Build branded, interactive AI applications on BranderUX: SDK integration, full agentic sites, custom elements — plus the BranderUX MCP for direct project control.",
+      "description": "Build agentic applications on BranderUX: SDK integration, full agentic sites, custom elements, plus the BranderUX MCP for direct project control.",
       "author": { "name": "BranderUX", "url": "https://branderux.com" },
       "homepage": "https://branderux.com/mcp",
       "license": "MIT",

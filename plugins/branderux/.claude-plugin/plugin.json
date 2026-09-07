@@ -1,7 +1,7 @@
 {
   "name": "branderux",
   "version": "0.1.0",
-  "description": "Build branded, interactive AI applications on BranderUX — SDK integration, full agentic sites, custom elements, with the BranderUX MCP wired in.",
+  "description": "Build agentic applications on BranderUX: SDK integration, full agentic sites, custom elements, with the BranderUX MCP wired in.",
   "author": { "name": "BranderUX", "url": "https://branderux.com" },
   "homepage": "https://branderux.com/mcp",
   "repository": "https://github.com/BranderUX/claude-plugins",
