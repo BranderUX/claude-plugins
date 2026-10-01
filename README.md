@@ -12,8 +12,7 @@ app, live. Companies with their own agent connect it as a first-class pillar.
 ```
 
 Installing the plugin also wires up the **BranderUX MCP** (`mcp.branderux.com/mcp`): on
-first use your browser opens for a one-click BranderUX sign-in (beta accounts connect today;
-everyone else lands on the waiting list). No API keys to paste.
+first use your browser opens for a one-click BranderUX sign-in. No API keys to paste.
 
 ## What's inside
 
